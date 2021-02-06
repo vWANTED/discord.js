@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "strict": true,
-    "moduleResolution": "node",
+    "moduleResolution": "nod",
     "declaration": false,
     "removeComments": false,
     "alwaysStrict": true,
